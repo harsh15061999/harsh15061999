@@ -11,6 +11,8 @@
 
 <p align="left"> <a href="https://twitter.com/patelharsh668" target="blank"><img src="https://img.shields.io/twitter/follow/patelharsh668?logo=twitter&style=for-the-badge" alt="patelharsh668" /></a> </p>
 
+- 📫 How to reach me **patelharsh668@gmail.com**
+
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/shingalah](https://sites.google.com/view/shingalah)
 
 
