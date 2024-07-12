@@ -13,7 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/shingalah](https://sites.google.com/view/shingalah)
 
-- 📫 How to reach me **patelharsh668@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JgSAHcdyjPi1VbMVYP87qvSy78F5ojGw/view](https://drive.google.com/file/d/1JgSAHcdyjPi1VbMVYP87qvSy78F5ojGw/view)
 
