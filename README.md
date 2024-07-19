@@ -6,7 +6,6 @@
 <h3 align="center">Currently, I am open to new opportunities where I can apply my skills to solve complex problems and drive innovation.</h3>
 <h3 align="center">Please feel free to explore my projects below and connect with me for opportunities to collaborate or talk about potential roles.</h3>
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh15061999" alt="harsh15061999" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/patelharsh668" target="blank"><img src="https://img.shields.io/twitter/follow/patelharsh668?logo=twitter&style=for-the-badge" alt="patelharsh668" /></a> </p>
