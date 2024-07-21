@@ -19,7 +19,6 @@
 
 
 
-
 Credentials
 
 ![google-data-analytics-professional-certificate 2 (1)](https://github.com/harsh15061999/Harsh-Shingala/assets/74000208/1f28bf4c-7b7f-4c74-a10c-6c31b57ed3a3)
