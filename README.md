@@ -34,7 +34,7 @@ A Data Analyst with a knack for making sense of complex data through visual stor
 
 <p align="left"> <a href="https://twitter.com/patelharsh668" target="blank"><img src="https://img.shields.io/twitter/follow/patelharsh668?logo=twitter&style=for-the-badge" alt="patelharsh668" /></a> </p>
 
-- 📫 How to reach me **patelharsh668@gmail.com**
+- 📫 How to reach me **shingala.h@northeastern.edu**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/shingalah](https://sites.google.com/view/shingalah)
 
@@ -44,8 +44,8 @@ A Data Analyst with a knack for making sense of complex data through visual stor
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/patelharsh668" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="patelharsh668" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-shingala-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-shingala-/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://sites.google.com/view/shingalah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://sites.google.com/view/shingalah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh-shingala-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-shingala-/" height="30" width="40" /></a>
+<a href="https://sites.google.com/view/shingalah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://sites.google.com/view/shingalah" height="30" width="40" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh15061999&" alt="harsh15061999" /></p>
