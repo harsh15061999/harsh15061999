@@ -48,5 +48,3 @@ A Data Analyst with a knack for making sense of complex data through visual stor
 <a href="https://sites.google.com/view/shingalah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://sites.google.com/view/shingalah" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh15061999&" alt="harsh15061999" /></p>
-
